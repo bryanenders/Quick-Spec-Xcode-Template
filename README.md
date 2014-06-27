@@ -3,7 +3,7 @@ Quick Spec Xcode Template
 
 An Xcode spec template for use with the Quick framework in Swift.
 
-<img src="http://lanausee.com/images/quickspec_2x.png" alt="Kiwi spec Xcode template icon" width="48" height="48">
+<img src="http://lanausee.com/images/quicktemplate.png" alt="Quick spec Xcode template icon" width="385" height="497">
 
 
 Installation
